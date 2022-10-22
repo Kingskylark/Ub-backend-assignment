@@ -3,7 +3,36 @@
     padding: 0;
 }
 .body{
-    background-color: rgb(10, 10, 46);
+    background-color: rgb(0, 0, 27);
+}
+.div1{
+    background-color: white;
+    width: 24rem;
+    height: 24rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.furm{
+    margin-left: auto;
+    margin-right: auto;
+}
+#email{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    size: 200px;
+    width: 22rem;
+    height: 3rem;
+}
+#password{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    size: 200px;
+    width: 22rem;
+    height: 3rem;
 }
 .head{
     color: white;
@@ -15,6 +44,21 @@
 }
 .header{
     text-align: center;
+}
+.bot1{
+    background-color: rgba(76, 1, 236, 0.788);
+    border-color: rgba(76, 1, 236, 0.788);
+    width: 22.2rem;
+    height: 3rem;
+}
+.pan{
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 4%;
+}
+.div2{
+    /* margin-left: auto;
+    margin-right: auto; */
 }
 .line{
     color: rgb(144, 140, 140);
