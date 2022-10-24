@@ -13,12 +13,13 @@
     margin-right: auto;
 }
 .furm{
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 4.2%;
+    /* background-color: rgba(247, 247, 173, 0.496); */
 }
 #email{
-    margin-left: auto;
-    margin-right: auto;
+    background-color: rgba(249, 249, 118, 0.667);
+    border-color: rgba(212, 252, 132, 0.94);
+    border-radius: 1rem;
     margin-top: 5%;
     margin-bottom: 3%;
     size: 200px;
@@ -26,6 +27,9 @@
     height: 3rem;
 }
 #password{
+    background-color: rgba(249, 249, 118, 0.667);
+    border-color: rgba(212, 252, 132, 0.94);
+    border-radius: 1rem;
     margin-left: auto;
     margin-right: auto;
     margin-top: 5%;
@@ -37,29 +41,46 @@
 .head{
     color: white;
   font-family: courier;
-  font-size: 160%;
+  font-size: 300%;
   text-align: center;
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
 .header{
     text-align: center;
+    padding-top: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 125%;
 }
 .bot1{
-    background-color: rgba(76, 1, 236, 0.788);
-    border-color: rgba(76, 1, 236, 0.788);
+    background-color: rgb(3, 3, 103);
+    border-color:rgb(3, 3, 103) ;
+    border-radius: 1rem;
+    color: white ;
     width: 22.2rem;
     height: 3rem;
+    margin-left: 4.2%;
+    border-radius: 3%;
+    box-shadow: none;
 }
 .pan{
     text-align: center;
     padding-top: 5%;
     padding-bottom: 4%;
+    font-family: Arial, Helvetica, sans-serif;
 }
-.div2{
-    /* margin-left: auto;
-    margin-right: auto; */
+.dive2{
+    margin-left: auto;
+    margin-right: auto;
 }
 .line{
-    color: rgb(144, 140, 140);
+    color: rgba(205, 201, 201, 0.375);
+}
+.lett{
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+.lett1{
+    padding-bottom: 2rem;
 }
