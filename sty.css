@@ -19,29 +19,29 @@
 #email{
     background-color: rgba(249, 249, 118, 0.667);
     border-color: rgba(212, 252, 132, 0.94);
-    border-radius: 9%;
+    border-radius: 10px;
     margin-top: 5%;
     margin-bottom: 3%;
     size: 200px;
-    width: 22rem;
+    width: 95%;
     height: 3rem;
 }
 #password{
     background-color: rgba(249, 249, 118, 0.667);
     border-color: rgba(212, 252, 132, 0.94);
-    border-radius: 1rem;
+    border-radius: 10px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 5%;
     margin-bottom: 3%;
     size: 200px;
-    width: 22rem;
+    width: 95%;
     height: 3rem;
 }
 .head{
     color: white;
-  font-family: courier;
-  font-size: 300%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 55px;
   text-align: center;
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -55,13 +55,13 @@
 .bot1{
     background-color: rgb(3, 3, 103);
     border-color:rgb(3, 3, 103) ;
-    border-radius: 1rem;
+    border-radius: 10px;
     color: white ;
     width: 22.2rem;
     height: 3rem;
     margin-left: 4.2%;
     border-radius: 3%;
-    box-shadow: none;
+    /* box-shadow: none; */
 }
 .pan{
     text-align: center;
@@ -77,8 +77,7 @@
     color: rgba(205, 201, 201, 0.375);
 }
 .lett{
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
     color: white;
 }
 .lett1{
