@@ -7,36 +7,34 @@
 }
 .div1{
     background-color: white;
-    width: 24rem;
-    height: 24rem;
+    width: 28%;
+    height: 24%;
     margin-left: auto;
     margin-right: auto;
 }
 .furm{
     margin-left: 4.2%;
-    /* background-color: rgba(247, 247, 173, 0.496); */
 }
 #email{
     background-color: rgba(249, 249, 118, 0.667);
     border-color: rgba(212, 252, 132, 0.94);
-    border-radius: 10px;
-    margin-top: 5%;
-    margin-bottom: 3%;
+    border-radius: 5px;
+    margin-top: 3.3%;
     size: 200px;
     width: 95%;
-    height: 3rem;
+    height: 45px;
 }
 #password{
     background-color: rgba(249, 249, 118, 0.667);
     border-color: rgba(212, 252, 132, 0.94);
-    border-radius: 10px;
+    border-radius: 5px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 5%;
+    margin-top: 3.3%;
     margin-bottom: 3%;
     size: 200px;
     width: 95%;
-    height: 3rem;
+    height: 45px;
 }
 .head{
     color: white;
@@ -57,8 +55,8 @@
     border-color:rgb(3, 3, 103) ;
     border-radius: 10px;
     color: white ;
-    width: 22.2rem;
-    height: 3rem;
+    width: 92%;
+    height: 12%;
     margin-left: 4.2%;
     border-radius: 3%;
     /* box-shadow: none; */
@@ -69,12 +67,8 @@
     padding-bottom: 4%;
     font-family: Arial, Helvetica, sans-serif;
 }
-.dive2{
-    margin-left: auto;
-    margin-right: auto;
-}
 .line{
-    color: rgba(205, 201, 201, 0.375);
+    color: rgba(101, 99, 99, 0.641);
 }
 .lett{
     text-align: center;
@@ -82,4 +76,16 @@
 }
 .lett1{
     padding-bottom: 2rem;
+}
+.botG{
+width: 32%;
+height: 8%;
+margin-left: 15%;
+text-align: center;
+}
+.botF{
+width: 32%;
+height: 8%;
+margin-left: 3%;
+text-align: center;
 }
